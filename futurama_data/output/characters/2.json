@@ -1,0 +1,39 @@
+{
+  "name": {
+    "first": "Turanga",
+    "middle": "",
+    "last": "Leela"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://upload.wikimedia.org/wikipedia/en/d/d4/Turanga_Leela.png"
+  },
+  "age": "32",
+  "gender": "Female",
+  "species": "Mutant",
+  "homePlanet": "Earth",
+  "occupation": "Captain and pilot",
+  "sayings": [
+    "Bender, this is Fry's decision... and he made it wrong. So it's time for us to interfere in his life.",
+    "With my Oxo Goodgrips cheese knife, I stab at thee!",
+    "I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness.",
+    "I was having the most wonderful dream. Except you were there, and you were there, and you were there!",
+    "That's not a career, more of a felony.",
+    "That's not a warning! A warning's supposed come before something bad happens.",
+    "This is my first visit to the Galaxy of Terror and I'd like it to be a pleasant one.",
+    "This isn't heaven! It just looks exactly like it and makes us immortal! Which I find suspicious.",
+    "Unit 10 - Target H, 16K - niner, niner! Go left - I mean right!",
+    "What is the secret of time travel doing on Fry's ass?",
+    "Do you have idiots on your planet?",
+    "He opened up relations with China. He doesn't want to hear about your ding-dong.",
+    "I'm a millionaire! Suddenly I have an opinion about the capital gains tax.",
+    "My old life wasn't as glamorous as my webpage made it look.",
+    "No, Leela will show you out.",
+    "There's a political debate on. Quick, change the channel!",
+    "This is by a wide margin the least likely thing that has ever happened.",
+    "This toads the wet sprocket.",
+    "This wangs chung.",
+    "You did the best you could, I guess, and some of these gorillas are okay."
+  ],
+  "id": 2
+}

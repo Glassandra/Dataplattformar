@@ -1,0 +1,32 @@
+{
+  "name": {
+    "first": "Zapp",
+    "middle": "",
+    "last": "Brannigan"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/7/73/Zapp-Brannigan.png"
+  },
+  "age": "40",
+  "gender": "Male",
+  "species": "Human",
+  "occupation": "Captain",
+  "sayings": [
+    "All good things must come to an end, preferably in a humongous explosion.",
+    "Oh yea, bathtub minestrone.",
+    "Bender here has identified the femdito commander as my ex-lover, Turanga Leela, whom I once made love at.",
+    "Captaining 101: Go for the nose!",
+    "I am the man with no name, Zapp Brannigan!",
+    "Ladies, you're under arrest. Prepare to be boarded again and again.",
+    "Me like snu-snu!",
+    "My bloodhound-like instincts must have hunted them down while my other parts were throbbing to Duran Duran.",
+    "Same speed ahead!",
+    "Something is very wrong here. And yet, a bit right.",
+    "Spare me your space age technobabble, Attila the Hun!",
+    "The alien mothership is in orbit here. If we can hit that bullseye, the rest of the dominoes will fall like a house of cards. Checkmate.",
+    "We fight this battle not for ourselves, but for our children, and our children's children, which is why I'm forming a children's brigade.",
+    "We need rest. The spirit is willing, but the flesh is spongy and bruised."
+  ],
+  "id": 9
+}

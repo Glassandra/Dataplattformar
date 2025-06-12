@@ -1,0 +1,19 @@
+{
+  "name": {
+    "first": "LaBarbara",
+    "middle": "",
+    "last": "Conrad"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/e/e4/LaBarbara_Conrad-1-.jpg"
+  },
+  "age": "35",
+  "gender": "Female",
+  "species": "Human",
+  "occupation": "",
+  "sayings": [
+    "All in favor of the Jamoka-Thunderclap? That would be me."
+  ],
+  "id": 15
+}

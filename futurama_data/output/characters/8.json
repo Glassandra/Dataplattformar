@@ -1,0 +1,26 @@
+{
+  "name": {
+    "first": "John",
+    "middle": "A",
+    "last": "Zoidberg"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/4/4a/Dr_John_Zoidberg.png"
+  },
+  "age": "40",
+  "gender": "Male",
+  "species": "Decapodian",
+  "occupation": "Staff doctor",
+  "sayings": [
+    "My name isn't Slick, it's Zoidberg. John fucking Zoidberg!!",
+    "In my experience, boxes are usually empty, sometimes with a little cheese stuck to the top, and one time pepperoni, what a day that was!",
+    "The female Leela's problem is purely medical, soon she will lay her eggs and they will hatch and all will be well.",
+    "Fry, it's been years since medical school, so remind me. Disemboweling in your species: fatal, or non-fatal?",
+    "Friends, help! A guinea pig tricked me!",
+    "I saw a frilly cake in here you would remember all your life. I know I will. Late at night it haunts me with its frosty beauty. [shouting] Order the cake, dammit!!",
+    "Look, coupons! I can get two oil changes for the price of one. Now, if I could only afford the one... and the car. Ah, the years! So many memories, so many strange fluids gushing out of patients' bodies.",
+    "Switch bodies? I don't see why not. I also don't see why."
+  ],
+  "id": 8
+}

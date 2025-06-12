@@ -1,0 +1,26 @@
+{
+  "name": {
+    "first": "Amy",
+    "middle": "",
+    "last": "Wong"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/9/94/AmyWong.png"
+  },
+  "age": "30",
+  "gender": "Female",
+  "species": "Martian",
+  "homePlanet": "Mars",
+  "occupation": "Intern",
+  "sayings": [
+    "Ew, pukeatronic!",
+    "Hey, let's go car shopping! My parents said if I got all B's they'd buy me a bar. And I got all C's!",
+    "Hey Professor, what's all this scrumpf blorking out of the machine?",
+    "Well, yes. But that's not revelant.",
+    "Shoo! Stay away from my babies!",
+    "Oh, God! I'm having a Serengeti flashback! Die, you dirty giraffe!",
+    "I'm too rich to be kidnapped!"
+  ],
+  "id": 5
+}

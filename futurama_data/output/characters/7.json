@@ -1,0 +1,20 @@
+{
+  "name": {
+    "first": "Carol",
+    "middle": "",
+    "last": "Mom"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/d/d9/Mom.png"
+  },
+  "age": "150",
+  "gender": "Female",
+  "species": "Human",
+  "homePlanet": "Earth",
+  "occupation": "Mega-tycoon owner of Mom's Friendly Robot Company",
+  "sayings": [
+    "Jam a bastard in it, you crap!"
+  ],
+  "id": 7
+}

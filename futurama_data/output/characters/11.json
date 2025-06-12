@@ -1,0 +1,19 @@
+{
+  "name": {
+    "first": "Scruffy",
+    "middle": "",
+    "last": "Scruffington"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/1/10/Scruffy.png"
+  },
+  "age": "53",
+  "gender": "Male",
+  "species": "Human",
+  "occupation": "Janitor",
+  "sayings": [
+    "I'm Scruffy. The janitor."
+  ],
+  "id": 11
+}

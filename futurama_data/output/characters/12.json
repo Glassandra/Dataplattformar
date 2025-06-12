@@ -1,0 +1,19 @@
+{
+  "name": {
+    "first": "Cubert",
+    "middle": "J",
+    "last": "Farnsworth"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/7/7e/CubertFarnsworth.png"
+  },
+  "age": "13",
+  "gender": "Male",
+  "species": "Human",
+  "occupation": "Co-owner of Awesome Express",
+  "sayings": [
+    "What? You've never seen a genius's wiener before?"
+  ],
+  "id": 12
+}

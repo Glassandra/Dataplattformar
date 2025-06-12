@@ -1,0 +1,19 @@
+{
+  "name": {
+    "first": "Kif",
+    "middle": "",
+    "last": "Kroker"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/8/88/Kif-Kroker.png"
+  },
+  "age": "32",
+  "gender": "Male",
+  "species": "Amphibiosans",
+  "occupation": "DOOP (Executive Officer) ",
+  "sayings": [
+    "I love it out here, Amy. I feel so manly. I have a blister, I-I spit! A-And of course, I tell no one my feelings, until I write them in my dairy."
+  ],
+  "id": 13
+}

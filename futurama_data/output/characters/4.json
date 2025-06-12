@@ -1,0 +1,53 @@
+{
+  "name": {
+    "first": "Hubert",
+    "middle": "J",
+    "last": "Farnsworth"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://upload.wikimedia.org/wikipedia/en/0/0f/FuturamaProfessorFarnsworth.png"
+  },
+  "age": "210",
+  "gender": "Male",
+  "species": "Human",
+  "homePlanet": "Earth",
+  "occupation": "Scientist",
+  "sayings": [
+    "Bender! Stop killing for a minute!",
+    "Because your apartment smells like Polygrip and cat pee!",
+    "Amy, technology isn't intrinsically good or evil. It's how it's used, like the death ray. ",
+    "Just slow it down, I'll shoot Hitler out the window. Darn, I hit Eleanor Roosevelt by mistake!",
+    "Just 'cause I'm stupider than them, they think they're smarter than me!",
+    "Dear God, they'll be killed on our doorstep! And there's no trash pickup until January 3rd.",
+    "Doomsday device? Ah, now the ball's in Farnsworth's court! I suppose I could part with one and still be feared\u2026",
+    "Everybody out of the conference room! I'm calling a conference!",
+    "Goodbye, cruel world. Goodbye, cruel lamp. Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin and the cute little pom-pom curtain pull cords. Cruel though they may be...",
+    "Good God! Just knowing we're in the same genus makes me embarrassed to call myself homo!",
+    "Good news, everyone! I've taught the toaster to feel love!",
+    "Good news, everyone! There's a report on TV with some very bad news!",
+    "I am calling a mandatory company meeting. To the mandatorium!",
+    "I can wire anything directly into anything - I'm the professor!",
+    "I'm sciencing as fast as I can!",
+    "I've got to find a way to escape the horrible ravages of youth. Suddenly, I'm going to the bathroom like clockwork, every three hours. And those jerks at Social Security stopped sending me checks. Now I have to pay them!",
+    "Less invasions, more equations!",
+    "Nothing is impossible. Not if you can imagine it. That's what being a scientist is all about.",
+    "Now I've often said 'Good news' when sending you on a mission of extreme danger. So when I say this anomaly is dangerous, you can imagine how dangerous I really think it is.",
+    "Now, now. Perfectly symmetrical violence never solved anything.",
+    "Of course Fry, show me where on this anatomically correct doll where he touched you.",
+    "Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.",
+    "Oh, dreadfully real. If you die here you'll really be dead. But instead of science we believe in crazy hocus pocus. It's sort of like Kansas.",
+    "Oh, I always feared he might run off like this. Why, why, why didn't I break his legs?",
+    "Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain.",
+    "Oh, I never knew how much I'd miss him until he was gone! Not that much, as it turns out.",
+    "That proves nothing! And furthermore, you'd think I could remember a thing like that; plus, who are you anyway?",
+    "There's just one little problem, and it's a big one.",
+    "There's one way and only one way to determine if an animal is intelligent. Dissect its brain!",
+    "To better understand the anomaly, I will test its effects on this Giant Medium-Sized Ant.",
+    "Well, then good news! It's a suppository.",
+    "Who did this? Answer now or be punished.",
+    "Yes, it's the apocalypse all right. I always thought I'd have a hand in it.",
+    "Your squad sucks bosons! My team is twice as qualified and three times as expendable!"
+  ],
+  "id": 4
+}

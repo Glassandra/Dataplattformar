@@ -1,0 +1,29 @@
+{
+  "name": {
+    "first": "Hermes",
+    "middle": "",
+    "last": "Conrad"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/0/0d/Hermes.png"
+  },
+  "age": "52",
+  "gender": "Male",
+  "species": "Human",
+  "homePlanet": "Earth",
+  "occupation": "Bureaucrat and Accountant",
+  "sayings": [
+    "Without my body, I'm a nobody.",
+    "I'm hungrier than a green snake in a sugar cane field.",
+    "When push comes to shove, you've got to do what you love, even if it's not a good idea.",
+    "Like my granny used to say back in her tar paper shack on Montego Bay, 'If you want a box thrown into the sun, you got to do it yourself.' God rest her zombie bones.",
+    "My Speedos!",
+    "My manwich!",
+    "Welcome to stampy-town, population five.",
+    "That's a calculator. I ate it to gain its power.",
+    "Sweet giant anteater of Santa Anita!",
+    "Sweet something... of... someplace..."
+  ],
+  "id": 6
+}

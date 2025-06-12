@@ -1,0 +1,19 @@
+{
+  "name": {
+    "first": "Dwight",
+    "middle": "",
+    "last": "Conrad"
+  },
+  "images": {
+    "head-shot": "",
+    "main": "https://static.wikia.nocookie.net/enfuturama/images/d/d7/Dwight.png"
+  },
+  "age": "12",
+  "gender": "Male",
+  "species": "Human",
+  "occupation": "Co-owner of Awesome Express",
+  "sayings": [
+    "I'm gonna take this and buy five shares of Amazon.com"
+  ],
+  "id": 14
+}
